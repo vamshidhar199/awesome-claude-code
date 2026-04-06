@@ -177,6 +177,7 @@
 - [Vibe-Log](https://github.com/vibe-log/vibe-log-cli) by [Vibe-Log](https://github.com/vibe-log) - Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
 - [viwo-cli](https://github.com/OverseedAI/viwo) by [Hal Shin](https://github.com/hal-shin) - Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
 - [VoiceMode MCP](https://github.com/mbailey/voicemode) by [Mike Bailey](https://github.com/mbailey) - VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
+- [ctxlint](https://github.com/vamshidhar199/Ctxlint) by [Vamshidhar Parupally](https://github.com/vamshidhar199) - A CLI linter for AI agent context files (AGENTS.md, CLAUDE.md, GEMINI.md, .cursorrules). Catches stale references, dead build commands, directory trees, and token waste. 8 deterministic rules, zero LLM dependency. 
 
 ### IDE Integrations
 
